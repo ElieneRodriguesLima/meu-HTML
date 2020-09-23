@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Pizzaria</title>
+</head>
+<body>
+    
+	<h2><font face="arial" color="red">Pizza</font></h2>
+	<hr color="red">
+    <h3><font face="arial" size="2" color= "red">Pizza é uma preparação que consiste em um disco de massa fermentada de farinha de trigo, regado com molho de tomates e coberto com ingredientes variados que normalmente incluem algum tipo de queijo, carnes preparadas ou defumadas e ervas, normalmente orégano ou manjericão, tudo assado em forno.</h3>
+    <hr color="red"></font>
+    <font face="verdana" size="2" color="red">A variedade de coberturas que se pode colocar sobre uma pizza é quase infinita, entretanto, algumas preparações são tradicionais e têm fiés seguidores:</font>
+    <ul>
+    	<li><font face="verdana" size="2" color="red">Margherita</font>
+    	<li><font face="verdana" size="2" color="red">Mussarela</li>
+    	<li><font face="verdana" size="2" color="red">Portuguesa</li>
+    	<li><font face="verdana" size="2" color="red">Calabresa</li>
+    	<li><font face="verdana" size="2" color="red">Toscana</li>
+    	<li><font face="verdana" size="2" color="red">Pepperoni</li>
+    	<li><font face="verdana" size="2" color="red">Quatro queijos</li>
+    	<li><font face="verdana" size="2" color="red">Pomodoro</li>
+    	</ul>
+    	    <hr color="red">
+    	    <ol>
+    	    	<li><font face="verdana" size="2" color="red">http://pt.wikipedia.org/wiki/Pizza</li>
+    	<li><font face="verdana" size="2" color="red">http://www.pizza.it</li>
+    	<li><font face="verdana" size="2" color="red">http://en.wikipedia.org/wiki/History_of_pizza</li>	
+    </ol>	
+               <font face="verdana" size="1" color="red">www.pizzaonline.com.br</font>
+	
+
+
+</body>
+</html>
