@@ -1,0 +1,15 @@
+<meta charset="utf-8">
+	<title>Práticas</title>
+</head>
+<body>
+	<h1><font color="Blue" face="arial italico"> Minhas Atividades Práticas de HTML</font></h1>
+	<hr color="Green">
+	<h2><a href="atividades_html/Dados_Pessoais.html">Dados Pessoais:</a><i> Uso de quebra de linha e negrito</i></h2>
+	<h2><a href="imagens_html/Minha Pizzaria.html">Pizzaria:</a><i> Foi utilizado atributos para imagens</i></h2>
+	<h2><a href="html/teste_de_visão.html"> Teste de Visão:</a><i>
+	Uso de quebra de linha, e uso das tags de hierarquia de texto.</i></h2>
+	<h2><a href="Videos_youtube/Videos do Youtube.html">Videos do Youtube:</a><i> Foi utilizado atributos para vídeos do youtube</i></h2>
+	<h2><a href="atividades_html/Google.html">Google:</a><i> Usado as tags para as cores das letras</i></h2>
+
+</body>
+</html>
